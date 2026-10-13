@@ -1,0 +1,9 @@
+I built a practical commercial-operations case study around COD e-commerce.
+
+The model connects unit economics, a paid-click-to-collection funnel, and a decision log before ad spend is scaled.
+
+This is an illustrative portfolio model, not reported sales performance.
+
+Portfolio: [Add GitHub repository link]
+
+#CommercialOperations #DataAnalytics #EcommerceOperations #Excel #BusinessIntelligence
